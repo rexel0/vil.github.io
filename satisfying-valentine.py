@@ -102,7 +102,7 @@ def draw_text(text):
     turtle.color((0.5,0.09,0.09),(1, .99, .82))
     turtle.write(text, align="center", font=("Fixedsys", 20, "normal"))
 
-draw_text('''your   custom  text
+draw_text('''I just Love you so much
                ❤️''')
 turtle.goto(0,-5)
 turtle.done()
